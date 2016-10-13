@@ -1,7 +1,7 @@
 
 #Better Sketch
 
-之前在公司里分享过 Sketch 的一些技巧和插件，发现很多朋友并不知道一些优秀的插件和一些提升效率的技巧，于是创建了此项目，帮助大家收集各类 Sketch 优秀插件和使用技巧。
+在团队里分享的时候发现很多朋友并不知道 Sketch 的一些优秀插件和技巧，于是创建了此项目，旨在帮助大家收集各类优秀的 Sketch 插件、工具和技巧。
 
 <br>
 
@@ -22,7 +22,7 @@
 曾经我们需要做很多标注类的工作，而在 Sketch 的时代，这些工作都可以交给机器去完成，所以此项必须首要推荐。
 
 评分   | 名称  | 功能简述 | 单价 | 测评
------ | ----- | ------ | ----- | -----
+:----- | :----- | :------ | :----- | :-----
 <a href="#Measure" name="Measure">★</a>★★★★ | [Measure](http://utom.design/measure/) | 可以算是第一款解放生产力的标注工具，国人制作，强力推荐 | 免费 | #
 <a href="#Marketch" name="Marketch">★</a>★★★★ | [Marketch](https://github.com/tudou527/marketch) | 同样优秀的一款标注插件，与 Measure 的区别主要集中在界面风格上，同样国人制作 | 免费 | [#](https://www.macstories.net/reviews/1password-4-for-mac-review/)
 <a href="#Ziplin" name="Ziplin">★</a>★★★☆ | [Ziplin](https://zeplin.io/) | 第三方工具，可与 Sketch 无缝配合，项目支持多人共享，上传后其他人即可在本机上看到，不用传输文件，还可以在线标注讨论，十分强大。价格不便宜，免费账户只能创建一个项目，付费价格从 15 刀到 100 刀不等。 | 0~$100 | [#](https://www.zhihu.com/question/27713420)
