@@ -35,8 +35,12 @@ Sketch 中对象的最小单位即是图层，所以衍生出很多围绕「图�
 
 | 名称 | 主要功能 | 单价 | 测评 |
 | ------- | ------------- | :----- | :-------------- |
-| [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory) | 1.选中相同颜色的图层；2. 选中相同名称的图层； | 免费 | # |
+| [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory) | 1. 选中相同颜色的图层；<br>2. 选中相同名称的图层； | 免费 | # |
 | [Pixel Perfecter](https://github.com/swiadek/pixel-perfecter-sketch-plugin) | 选中坐标和尺寸中含有小数点的图层； | 免费 | # |
+| [Sketch Select Similar Layers](https://github.com/wonderbit/sketch-select-similar-layers) | 1. 选中相同描边厚度的图层；<br>2. 选中具有相同字体和大小的文本层；<br>3. 选中相同透明度的图层；<br>4. 选中相同混合模式的图层 | 免费 | # |
+
+
+
 
 
 
