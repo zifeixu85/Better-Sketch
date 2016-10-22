@@ -35,9 +35,30 @@ Sketch 中对象的最小单位即是图层，所以衍生出很多围绕「图�
 
 | 名称 | 主要功能 | 单价 | 测评 |
 | ------- | ------------- | :----- | :-------------- |
-| [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory) | 1. 选中相同颜色的图层；<br>2. 选中相同名称的图层； | 免费 | # |
-| [Pixel Perfecter](https://github.com/swiadek/pixel-perfecter-sketch-plugin) | 选中坐标和尺寸中含有小数点的图层； | 免费 | # |
-| [Sketch Select Similar Layers](https://github.com/wonderbit/sketch-select-similar-layers) | 1. 选中相同描边厚度的图层；<br>2. 选中具有相同字体和大小的文本层；<br>3. 选中相同透明度的图层；<br>4. 选中相同混合模式的图层 | 免费 | # |
+| [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory) | 1. 选中相同颜色的图层<br>2. 选中相同名称的图层 | 免费 | # |
+| [Pixel Perfecter](https://github.com/swiadek/pixel-perfecter-sketch-plugin) | 选中坐标和尺寸中含有小数点的图层 | 免费 | # |
+| [Sketch Select Similar Layers](https://github.com/wonderbit/sketch-select-similar-layers) | 1. 选中相同描边厚度的图层<br>2. 选中具有相同字体和大小的文本层<br>3. 选中相同透明度的图层<br>4. 选中相同混合模式的图层 | 免费 | # |
+| [Font Finder](https://github.com/ukn530/FontFinder) | 1. 查看文档内所有使用的字体<br>2. 选中使用某字体的所有图层 | 免费 | # |
+| [Sketch Layer Tools](https://github.com/hrescak/Sketch-Layer-Tools) | 1. 选中当前页面上所有图形<br>2. 选中当前页面上所有文本<br>3. 选中所有画板<br>4. 选中所有文本<br>5. 选中所有位图   | 免费 | # |
+| [Sketch Runner](http://sketchrunner.com/) | Sketch 中的「Alfred」，可以通过搜索图层名快速定位，并可跨越 Page 搜索   | 免费 | # |
+| [Sketch Commands](https://github.com/bomberstudios/sketch-commands) | 快速移动图层 | # |
+| [Sketch Mate](https://github.com/getflourish/Sketch-Mate) | 快速对齐图层 | # |
+| [Rename it](https://github.com/rodi01/RenameIt) | 快速批量重命名图层 | # |
+| [Sketch Mate](https://github.com/romashamin/sort-me-sketch) | 快速排列图层 | # |
+
+<br>
+
+## 3. 内容
+
+主要介绍一些快速填充内容的插件和技巧。
+
+| 名称 | 主要功能 | 单价 | 测评 |
+| ------- | ------------- | :----- | :-------------- |
+| [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory) | 1. 选中相同颜色的图层<br>2. 选中相同名称的图层 | 免费 | # |
+
+
+
+……
 
 
 
