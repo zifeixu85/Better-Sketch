@@ -130,6 +130,7 @@ Github 开源的插件，可以通过修改源文件的方式「查找并替换�
 
 #### 参考文献
 
+- [Sketch Meetup Notes - Ray](https://gist.github.com/RayPS/14ad2d87169f0df3d964b3955b20907e)
 
 
 #### License
