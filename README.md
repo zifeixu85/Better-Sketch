@@ -97,7 +97,7 @@
 
 1. 找到插件的 Github 地址（如 https://github.com/rodi01/RenameIt）
 2. 点击「Clone or download」，复制该 URL 
-	![](http://qiniu.zifeixu.com/clone-or-download.png)
+![](http://qiniu.zifeixu.com/clone-or-download.png)
 3. 在电脑上打开终端（Terminal），输入 `cd /Users/**xushuang**/Library/Application\ Support/com.bohemiancoding.sketch3/Plugins [粘贴你复制的 URL]`  （此处的 `xushuang` 换成你电脑的用户名）
 4. 插件安装成功
 
