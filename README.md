@@ -74,27 +74,30 @@
 >2. [一张图告诉你如何用Sketch节约绳命-智能缩放](http://www.ui.cn/detail/157967.html)
 >3. [Sketch教學 | #05 Smart resizing](https://medium.com/@IF540/sketch%E6%95%99%E5%AD%B8-05-smart-resizing-146301584f25#.ndqoxg9n7)
 
+<br>
 ### Symbol
 
 1. 官方文档：[Editing Symbols](https://www.sketchapp.com/learn/documentation/07-symbols/2-editing-symbols.html)
 
+<br>
 ### 插件的更新
 
 > 目前的插件有两种更新方式，一是插件作者写了更新功能，在你使用的过程中会提示你进行升级；第二种就是发布在 Github 上，却没有更新功能的插件，目前这部份插件没有很好的更新管理方式，可使用以下方法更新。
 
-**需具备条件**
+#### 需具备条件
 
-1. 插件使用 Github Clone 的方式安装，其他方式安装无效
+1. 插件发布在 Github 网站
+2. 使用 Clone 的方式安装插件，其他方式安装无效
 2. 下载 [Sourcetree](https://www.sourcetreeapp.com/) 或同类 App
 
-**使用 Github 安装插件**
+#### 使用 Github Clone 安装插件
 
 1. 找到插件的 Github 地址（如 https://github.com/rodi01/RenameIt）
 2. 点击「Clone or download」，复制该 URL ![](http://qiniu.zifeixu.com/clone-or-download.png)
 3. 在电脑上打开终端（Terminal），输入 `cd /Users/**xushuang**/Library/Application\ Support/com.bohemiancoding.sketch3/Plugins [粘贴你复制的 URL]`  （此处的 `xushuang` 换成你电脑的用户名）
 4. 插件安装成功
 
-**使用 Github 更新插件**
+#### 使用 Github 更新插件
 
 1. 打开 SourceTree，同时打开 Sketch 的插件文件夹「Plugins → Manage Plugins → Show in Finder（点击小齿轮）」
 2. 将你的插件文件夹拖动到 SourceTree 的「本地」中，当你的插件有更新时，会有红标数字提示
@@ -102,13 +105,14 @@
 
 PS：抱歉，文字说明不够明白，这部份内容有时间了我会录制视频给大家演示。
 
-
+<br>
 ### 插件的汉化
 
 Github 开源的插件，可以通过修改源文件的方式「查找并替换」里面的英文为中文，如有需要，建议自己汉化。
 
 （具体内容待补充）
 
+<br>
 ### 5. 快捷键
 
 1. [Sketch 快捷键对照表](http://www.shejidaren.com/examples/tools/sketch-shortcuts/index.html)
