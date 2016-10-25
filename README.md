@@ -63,7 +63,7 @@
 | [Find and replace](https://github.com/getflourish/Sketch-Style-Inventory) | 查找并替换，目前仅支持英文搜索 |
 | [Relabel Button](https://github.com/getflourish/Sketch-Style-Inventory) | 快速制作不同长度的按钮，保持 Padding 值不变 |
 | [Content Generator](https://github.com/getflourish/Sketch-Style-Inventory) | 内容填充利器：1. 填充图片数据；2. 填充城市地名；3. 填充个人信息 |
-| 利用 Office 制作真实数据图表 | 在 Office 类软件中利用已有数据生成图表，再导出 PDF 格式，用 Sketch 打开即可修改图表样式 |
+| 制作真实数据的图表 | 在 Office 类软件中利用已有数据生成图表，再导出 PDF 格式，用 Sketch 打开即可修改图表样式 |
 
 <br>
 
@@ -73,13 +73,13 @@
 
 ### Resizing
 
-1. 官方文档：[Resizing Symbols](https://www.sketchapp.com/learn/documentation/07-symbols/5-resizing-symbols.html)
+1. [Resizing Symbols](https://www.sketchapp.com/learn/documentation/07-symbols/5-resizing-symbols.html)（官方文档）
 2. [一张图告诉你如何用Sketch节约绳命-智能缩放](http://www.ui.cn/detail/157967.html)
 3. [Sketch教學 | #05 Smart resizing](https://medium.com/@IF540/sketch%E6%95%99%E5%AD%B8-05-smart-resizing-146301584f25#.ndqoxg9n7)
 
 ### Symbol
 
-1. 官方文档：[Editing Symbols](https://www.sketchapp.com/learn/documentation/07-symbols/2-editing-symbols.html)
+1. [Editing Symbols](https://www.sketchapp.com/learn/documentation/07-symbols/2-editing-symbols.html)（官方文档）
 
 <br>
 
@@ -97,13 +97,15 @@
 
 1. 找到插件的 Github 地址（如 https://github.com/rodi01/RenameIt）
 2. 点击「Clone or download」，复制该 URL <br>![](http://qiniu.zifeixu.com/clone-or-download2.png)
-3. 在电脑上打开终端（Terminal），输入 `cd /Users/**xushuang**/Library/Application\ Support/com.bohemiancoding.sketch3/Plugins [粘贴你复制的 URL]`  （此处的 `xushuang` 换成你电脑的用户名）
-4. 插件安装成功
+3. 在电脑上打开终端（Terminal），输入
+`cd /Users/xushuang/Library/Application\ Support/com.bohemiancoding.sketch3/Plugins [粘贴你复制的 URL]`  
+注意此处的 `xushuang` 换成你电脑的用户名，输入完成后按回车。
+4. 插件安装成功（某些插件可能需要双击该目录下的 xxxx.sketchplugin 文件）
 
 ### 使用 Github 更新插件
 
 1. 打开 SourceTree，同时打开 Sketch 的插件文件夹「Plugins → Manage Plugins → Show in Finder（点击小齿轮）」
-2. 将你的插件文件夹拖动到 SourceTree 的「本地」中，当你的插件有更新时，会有红标数字提示
+2. 将你的插件文件夹拖动到 SourceTree 的「本地」中，当你的插件有更新时，会有红标数字提示（附图为没有更新状态时）
 ![](http://qiniu.zifeixu.com/SourceTree.png)
 
 PS：抱歉，文字说明不够明白，这部份内容有时间了我会录制视频给大家演示。
