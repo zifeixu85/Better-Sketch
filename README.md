@@ -135,6 +135,9 @@ Github 开源的插件，可以通过修改源文件的方式「查找并替换�
 #### 参考文献
 
 - [Sketch Meetup Notes - Ray](https://gist.github.com/RayPS/14ad2d87169f0df3d964b3955b20907e)
+- [Designing Data with Sketch](http://ivomynttinen.com/blog/designing-data-with-sketch)
+- [Making Sketch better… together](https://sketchapp.com/extensions/?utm_campaign=Sketch%2BNews&utm_medium=email&utm_source=Sketch_News_26)
+- [LearnSketch - TIPS & TRICKS](http://learnsketch.com/tips---tricks.html)
 
 
 #### License
