@@ -44,7 +44,7 @@
 | [Sketch Select Similar Layers](https://github.com/wonderbit/sketch-select-similar-layers) | 通过规则选择图层：<br>1. 选中相同描边厚度的图层<br>2. 选中具有相同字体和大小的文本层<br>3. 选中相同透明度的图层<br>4. 选中相同混合模式的图层 |
 | [Sketch Layer Tools](https://github.com/hrescak/Sketch-Layer-Tools) | 通过规则选择图层：<br>1. 选中当前页面上所有图形<br>2. 选中当前页面上所有文本<br>3. 选中所有画板<br>4. 选中所有文本<br>5. 选中所有位图   |
 | [Font Finder](https://github.com/ukn530/FontFinder) | 1. 查看文档内所有使用的字体<br>2. 选中使用某字体的所有图层 |
-| [Sketch Runner](http://sketchrunner.com/) | Sketch 中的「Alfred」，可以通过搜索图层名快速定位，并可跨越 Page 搜索   |
+| [Sketch Runner](http://sketchrunner.com/) | Sketch 中的「Alfred」：<br>1. 通过搜索快速执行操作，运行插件<br>2. 通过搜索快速定位图层或画板，并可跨越 Pages 搜索<br>3. 快速预览并插入 Symbol<br>4. 快速创建样式 |
 | [Sketch Commands](https://github.com/bomberstudios/sketch-commands) | 快速移动图层 |
 | [Sketch Mate](https://github.com/getflourish/Sketch-Mate) | 快速对齐图层 |
 | [Rename it](https://github.com/rodi01/RenameIt) | 快速批量重命名图层 |
@@ -58,12 +58,14 @@
 
 | 名称 | 主要功能 |
 | ------- | ------------- |
-| [Craft](https://github.com/getflourish/Sketch-Style-Inventory) | 内容填充神器 |
-| [Segmented Circles](https://github.com/getflourish/Sketch-Style-Inventory) | 快速绘制各种圆形数据图表 |
-| [Find and replace](https://github.com/getflourish/Sketch-Style-Inventory) | 查找并替换，目前仅支持英文搜索 |
+| [Craft](https://github.com/getflourish/Sketch-Style-Inventory) | 1. 快速填充数据内容（文本、图片均可）<br>2. 快速复制样式生成列表页面<br>3. 创建样式库文件，并可存放 Dropbox 实现同步 UI Kit<br>4. 制作简单可交互原型 |
 | [Relabel Button](https://github.com/getflourish/Sketch-Style-Inventory) | 快速制作不同长度的按钮，保持 Padding 值不变 |
-| [Content Generator](https://github.com/getflourish/Sketch-Style-Inventory) | 内容填充利器：1. 填充图片数据；2. 填充城市地名；3. 填充个人信息 |
-| 制作真实数据的图表 | 在 Office 类软件中利用已有数据生成图表，再导出 PDF 格式，用 Sketch 打开即可修改图表样式 |
+| [Font Finder](https://github.com/ukn530/FontFinder) | 查看当前文档正在使用的所有字体 |
+| [Segmented Circles](https://github.com/getflourish/Sketch-Style-Inventory) | 快速绘制各种圆形、环形数据图表 |
+| [Find and replace](https://github.com/getflourish/Sketch-Style-Inventory) | 查找并替换，目前仅支持英文搜索 |
+| [Content Generator](https://github.com/getflourish/Sketch-Style-Inventory) | 老牌内容填充利器：填充图片数据、城市地名、个人信息等 |
+| [Notebook Pro](http://marcosvid.al/sketch-notebook/) | 制作文档说明，特点是快速、样式统一和界面美观，收费插件（$7.99） |
+| 制作真实数据图表 | 利用 Excel/Numbers 等软件将数据生成图表后导出 pdf（或其他矢量文件），即可用 Sketch 二次加工美化 |
 
 <br>
 
@@ -121,7 +123,7 @@ Github 开源的插件，可以通过修改源文件的方式「查找并替换�
 ## 7. 快捷键
 
 1. [Sketch 快捷键对照表](http://www.shejidaren.com/examples/tools/sketch-shortcuts/index.html)
-2. [OS X 自定义应用快捷键和Sketch自定义快捷键分享](https://ksmx.me/custom-keyboard-shortcuts-mac-os-x/)  -  可定义 Sketch 所有功能为快捷键
+2. [OS X 自定义应用快捷键和Sketch自定义快捷键分享](https://ksmx.me/custom-keyboard-shortcuts-mac-os-x/)  -  可设置 Sketch 所有功能为快捷键
 
 
 ---
