@@ -100,9 +100,10 @@
 1. 找到插件的 Github 地址（如 https://github.com/rodi01/RenameIt）
 2. 点击「Clone or download」，复制该 URL <br>![](http://qiniu.zifeixu.com/clone-or-download2.png)
 3. 在电脑上打开终端（Terminal），输入
-`cd /Users/xushuang/Library/Application\ Support/com.bohemiancoding.sketch3/Plugins [粘贴你复制的 URL]`  
+`cd /Users/[你的用户名]/Library/Application\ Support/com.bohemiancoding.sketch3/Plugins`  
 注意此处的 `xushuang` 换成你电脑的用户名，输入完成后按回车。
-4. 插件安装成功（某些插件可能需要双击该目录下的 xxxx.sketchplugin 文件）
+4. 在终端输入`git clone [粘贴你复制的 URL]`  
+5. 插件安装成功（某些插件可能需要双击该目录下的 xxxx.sketchplugin 文件）
 
 ### 使用 Github 更新插件
 
@@ -138,6 +139,7 @@ Github 开源的插件，可以通过修改源文件的方式「查找并替换�
 - [Designing Data with Sketch](http://ivomynttinen.com/blog/designing-data-with-sketch)
 - [Making Sketch better… together](https://sketchapp.com/extensions/?utm_campaign=Sketch%2BNews&utm_medium=email&utm_source=Sketch_News_26)
 - [LearnSketch - TIPS & TRICKS](http://learnsketch.com/tips---tricks.html)
+- [Mastering Sketch 3](https://designcode.io/sketch-mastering)
 
 
 #### License
