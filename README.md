@@ -65,7 +65,7 @@
 | [Find and replace](https://github.com/getflourish/Sketch-Style-Inventory) | 查找并替换，目前仅支持英文搜索 |
 | [Content Generator](https://github.com/getflourish/Sketch-Style-Inventory) | 老牌内容填充利器：填充图片数据、城市地名、个人信息等 |
 | [Notebook Pro](http://marcosvid.al/sketch-notebook/) | 制作文档说明，特点是快速、样式统一和界面美观，收费插件（$7.99） |
-| [中文假名插件 for Sketch](https://github.com/JJYing/Fake-Chinese-Name-for-Sketch) | 生成随机中文人名的 Sketch 插件 |
+| [中文人名插件 for Sketch](https://github.com/JJYing/Fake-Chinese-Name-for-Sketch) | 生成随机中文人名的 Sketch 插件 |
 | 制作真实数据图表 | 利用 Excel/Numbers 等软件将数据生成图表后导出 pdf（或其他矢量文件），即可用 Sketch 二次加工美化 |
 
 <br>
