@@ -26,8 +26,8 @@
 
 | 名称                                       | 功能简述                                     | 单价     | 测评                                       |
 | ---------------------------------------- | ---------------------------------------- | :----- | :--------------------------------------- |
-| [Measure](http://utom.design/measure/)   | 可以算是第一款解放生产力的标注工具，国人 @utom 制作，强力推荐       | 免费     | 功能强大。可以设置安卓和ios端的标注规范。                   |
-| [Marketch](https://github.com/tudou527/marketch) | 同样优秀的一款标注插件，与 Measure 的区别主要集中在界面风格上，同样国人制作 | 免费     | 设置项目太少。无法设置标注单位。                         |
+| [Measure](http://utom.design/measure/)   | 可以算是第一款解放生产力的标注工具，国人 @utom 制作，强力推荐。<br>简评：功能强大，可以设置 Android 和 iOS 的标注规范。       | 免费     |  #                  |
+| [Marketch](https://github.com/tudou527/marketch) | 同样优秀的一款标注插件，与 Measure 的区别主要集中在界面风格上，同样国人制作。<br>简评：设置项目太少，无法设置标注单位。 | 免费     | #                         |
 | [Ziplin](https://zeplin.io/)             | 第三方工具，可与 Sketch 无缝配合，项目支持多人共享，上传后其他人即可在本机上看到，不用传输文件，可以在线标注协同讨论，十分强大。价格不便宜，免费账户只能创建一个项目，付费价格从 15 刀到 100 刀不等。 | 0~$100 | [#](https://www.zhihu.com/question/27713420) |
 | [Sympli](https://sympli.io/)             | 与 Zeplin 类似的一款工具，对开发者更加友好，可以直接在 Xcode 和 Android Stuido 安装插件即可看到标注文件，价格与 Zeplin 也几乎一致，免费版可创建一个项目。 | 0~$100 | [对比 Zeplin](https://designtongue.me/sketch-plugin-zeplin-vs-sympli/) |
 
@@ -56,7 +56,8 @@
 
 主要介绍一些快速填充内容的插件和技巧。
 
-| 名称                                       | 主要功能                                     |
+### 图形图像
+| 名称                                       | 主要功能                                     |
 | ---------------------------------------- | ---------------------------------------- |
 | [Craft](https://github.com/getflourish/Sketch-Style-Inventory) | 1. 快速填充数据内容（文本、图片均可）<br>2. 快速复制样式生成列表页面<br>3. 创建样式库文件，并可存放 Dropbox 实现同步 UI Kit<br>4. 制作简单可交互原型 |
 | [Relabel Button](https://github.com/getflourish/Sketch-Style-Inventory) | 快速制作不同长度的按钮，保持 Padding 值不变               |
@@ -67,19 +68,16 @@
 | [Notebook Pro](http://marcosvid.al/sketch-notebook/) | 制作文档说明，特点是快速、样式统一和界面美观，收费插件（$7.99）       |
 | 制作真实数据图表                                 | 利用 Excel/Numbers 等软件将数据生成图表后导出 pdf（或其他矢量文件），即可用 Sketch 二次加工美化 |
 
+### 字体
+| 名称                                       | 主要功能        |
+| ---------------------------------------- | ----------- |
+| <a href="https://github.com/ukn530/FontFinder">Font Finder Sketch Plugin</a> | 批量查找字体，修改字体 |
+
 <br>
 
 ## 4. 其他功能
 
 这里详细介绍一些原生好用的功能。
-
-## 5、字体
-
-批量查找，修改字体插件
-
-| 名称                                       | 主要功能        |
-| ---------------------------------------- | ----------- |
-| <a href="https://github.com/ukn530/FontFinder">Font Finder Sketch Plugin</a> | 批量查找字体，修改字体 |
 
 ### Resizing
 
