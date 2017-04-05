@@ -60,11 +60,14 @@
 | 名称                                       | 主要功能                                     |
 | ---------------------------------------- | ---------------------------------------- |
 | [Craft](https://github.com/getflourish/Sketch-Style-Inventory) | 1. 快速填充数据内容（文本、图片均可）<br>2. 快速复制样式生成列表页面<br>3. 创建样式库文件，并可存放 Dropbox 实现同步 UI Kit<br>4. 制作简单可交互原型 |
-| [Relabel Button](https://github.com/getflourish/Sketch-Style-Inventory) | 快速制作不同长度的按钮，保持 Padding 值不变               |
-| [Segmented Circles](https://github.com/getflourish/Sketch-Style-Inventory) | 快速绘制各种圆形、环形数据图表                          |
-| [Content Generator](https://github.com/getflourish/Sketch-Style-Inventory) | 老牌内容填充利器：填充图片数据、城市地名、个人信息等               |
-| [Notebook Pro](http://marcosvid.al/sketch-notebook/) | 制作文档说明，特点是快速、样式统一和界面美观，收费插件（$7.99）       |
-| 制作真实数据图表                                 | 利用 Excel/Numbers 等软件将数据生成图表后导出 pdf（或其他矢量文件），即可用 Sketch 二次加工美化 |
+| [Relabel Button](https://github.com/getflourish/Sketch-Style-Inventory) | 快速制作不同长度的按钮，保持 Padding 值不变 |
+| [Font Finder](https://github.com/ukn530/FontFinder) | 查看当前文档正在使用的所有字体 |
+| [Segmented Circles](https://github.com/getflourish/Sketch-Style-Inventory) | 快速绘制各种圆形、环形数据图表 |
+| [Find and replace](https://github.com/getflourish/Sketch-Style-Inventory) | 查找并替换，目前仅支持英文搜索 |
+| [Content Generator](https://github.com/getflourish/Sketch-Style-Inventory) | 老牌内容填充利器：填充图片数据、城市地名、个人信息等 |
+| [Notebook Pro](http://marcosvid.al/sketch-notebook/) | 制作文档说明，特点是快速、样式统一和界面美观，收费插件（$7.99） |
+| [中文人名插件 for Sketch](https://github.com/JJYing/Fake-Chinese-Name-for-Sketch) | 生成随机中文人名的 Sketch 插件 |
+| 制作真实数据图表 | 利用 Excel/Numbers 等软件将数据生成图表后导出 pdf（或其他矢量文件），即可用 Sketch 二次加工美化 |
 
 ### 字体&文本
 | 名称                                       | 主要功能        |
